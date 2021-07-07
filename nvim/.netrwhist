@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/run/media/invidiae/7A024DE653376102/Notes/.obsidian'
+let g:netrw_dirhist_5='/run/media/invidiae/7A024DE653376102/Notes/.obsidian/plugins'
+let g:netrw_dirhist_4='/run/media/invidiae/7A024DE653376102/Notes/.obsidian/plugins/better-word-count'
+let g:netrw_dirhist_3='/run/media/invidiae/7A024DE653376102/Notes/.obsidian/plugins'
+let g:netrw_dirhist_2='/run/media/invidiae/7A024DE653376102/Notes/.obsidian'
+let g:netrw_dirhist_1='/run/media/invidiae/7A024DE653376102/Notes'
